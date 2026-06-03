@@ -4,7 +4,7 @@
 <video autoplay muted loop playsinline class="video-bg">
     <source src="video/videoHDDT.WEBM" type="video/mp4">
 </video>
-
+<div class="video-overlay"></div>
 <style>
 .video-bg{
     position:fixed;
@@ -13,14 +13,14 @@
     width:100%;
     height:100%;
     object-fit:cover;
-    z-index:-2;
+    z-index:-3;
 }
 
 .video-overlay{
     position:fixed;
     inset:0;
+    z-index:-2;
     background:rgba(0,0,0,0.5);
-    z-index:-1;
 }
 .section-heading p::-webkit-scrollbar{
     width:6px;
@@ -61,7 +61,9 @@
   <section class="section">
     <div class="container section-heading">
 
-        <p style="color:white;" class="eyebrow">
+        <p style="color:#fff;"text-shadow:
+        0 2px 4px rgba(0, 0, 0, 0.8),
+        0 4px 10px rgba(0,0,0,0.6), class="eyebrow">
             Tổng quan
         </p>
 

@@ -35,9 +35,9 @@
 
     <section class="section">
         <div class="container section-heading">
-            <p class="eyebrow">Tổng quan</p>
-            <h2>Số hóa kế toán — giảm thời gian tổng hợp</h2>
-            <p>
+            <p style="color:white;" class="eyebrow">Tổng quan</p>
+            <p style="color:white;" class="eyebrow">Số hóa kế toán — giảm thời gian tổng hợp</p>
+            <p style="color:white;" class="eyebrow">
                 Tự động hóa quy trình tổng hợp dữ liệu và tạo báo cáo.
                 Hỗ trợ quản trị theo kỳ và theo bộ phận giúp minh bạch vận hành.
             </p>

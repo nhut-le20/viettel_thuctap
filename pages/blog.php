@@ -26,8 +26,7 @@ $newsList = $stmt->fetchAll();
     <!-- SIDEBAR -->
     <aside class="sidebar">
         <div class="logo">
-            <h1>viettel</h1>
-            <p>Theo cách của bạn</p>
+            <img src="images/logo.jpg" alt="Logo" class="logo">
         </div>
 
         <nav class="menu">
@@ -63,7 +62,14 @@ $newsList = $stmt->fetchAll();
 
         </div>
     </aside>
+<style>
+.logo-img{
+    width:25mm;
+    height:auto;
+}
 
+
+</style>
     <!-- MAIN -->
     <main class="main">
         <header class="header">
