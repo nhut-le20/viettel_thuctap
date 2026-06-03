@@ -1,0 +1,7 @@
+- [ ] Kiểm tra hiện trạng font-face / font-family đang dùng trong CSS (variables.css, style.css)
+- [ ] Thêm @font-face cho toàn bộ biến thể PFBeausansPro-Magistral: Thin/Regular/Semibold/Bold/Book/Italic/BoldItalic (nếu đã có file)
+- [ ] Chuẩn hóa mapping font-weight + font-style theo chuẩn: thin=100, regular=400, book=400(hoặc 450 tùy ý), semibold=600, bold=700
+- [ ] Cập nhật --font-base và các biến liên quan để dùng PFBeausansPro Magistral đúng tên family
+- [ ] Rà soát các CSS đang dùng font-weight cụ thể để đảm bảo không bị “lạc” sang font fallback
+- [ ] Test nhanh bằng cách mở các trang chính (index/home và các trang giải pháp) để đảm bảo hiển thị đúng
+

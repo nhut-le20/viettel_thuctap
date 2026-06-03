@@ -18,7 +18,7 @@
 .video-overlay{
     position:fixed;
     inset:0;
-    background:rgba(0,0,0,0.5);
+    background:rgba(0,0,0,0.6);
     z-index:-1;
 }
 
@@ -39,10 +39,17 @@
             Tổng quan
         </p>
 
-        <h2 style="color:white;">
-            Hóa đơn điện tử Viettel 
-            
-        </h2>
+       <p style="
+            color:white;
+            max-height:400px;
+            overflow-y:auto;
+            padding-right:10px;
+        ">
+            Trong thời gian qua những lợi ích mà Hóa đơn điện tử viettel trong quá trình thí điểm sử dụng tại một số cơ sở kinh doanh, các dịch vụ kinh tế và thị trường kinh tế mang lại nhiều hiệu quả, thì có lẽ trong tương lai gần sẽ có quyết định sử dụng hóa đơn để nộp thuế thông qua ngân hàng trực tuyến. Muốn sử dụng tốt loại hddt viettel, hóa đơn dịch vụ. invoice viettel, ebill viettel…yêu cầu các doanh nghiệp, các cơ sở kinh tế… phải hiểu rõ hóa đơn điện tử là gì? Hóa đơn mang lại lợi ích gì? Hóa đơn đỏ là gì? Khó khăn khi sử dụng hóa đơn điện tử? Quy trình thực hiện hóa đơn?….Bài viết sau đây sẽ giúp các bạn hiểu rõ hơn về các vấn đề đối với đơn điện tử.
+
+Giới thiệu hóa đơn điện tử Viettel
+Dịch vụ Hóa đơn điện tử( viết tắt là hddt) của Viettel cung cấp giải pháp quản lý hóa đơn trên nền tảng công nghệ kỹ thuật số cho các doanh nghiệp, các công ty, cơ sở sản xuất…Hóa đơn  Viettel được tạo, lập, gửi, nhận, lưu trữ và quản lý bằng phương tiện điện tử thông qua việc sử dụng công nghệ truyền thông và thông tin, được ký gửi bằng chữ ký số, nó có giá trị pháp lý như hóa đơn thông thường. Hóa đơn có thể chuyển đổi thành hóa đơn giấy và in hóa đơn viettel khi có nhu cầu. Sử dụng hóa đơn giúp việc tra cứu hóa đơn internet viettel, lấy hóa đơn 1 cách dễ dàng nhờ vào công nghệ thông tin.
+        </p>
 
         <p style="
             color:white;

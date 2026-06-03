@@ -32,6 +32,94 @@
     --container: 1180px;
     
     /* Fonts */
-    --font-base: "Beau Sans Pro", "Magistral", "Sarabun", Arial, Helvetica, sans-serif;
-    --font-heading: "Beau Sans Pro", "Magistral", "Sarabun", Arial, Helvetica, sans-serif;
+    --font-base: "PFBeausansPro-Magistral", "PF Beausans Pro Magistral", "PFBeausansPro", "Magistral", "Sarabun", Arial, Helvetica, sans-serif;
+    --font-heading: "PFBeausansPro-Magistral", "PF Beausans Pro Magistral", "PFBeausansPro", "Magistral", "Sarabun", Arial, Helvetica, sans-serif;
 }
+
+/* PF Beausans Pro / Magistral family (weights + italics)
+   Note: file names in assets/fonts/ are FS Magistral-*.ttf
+*/
+@font-face {
+    font-family: "PFBeausansPro-Magistral";
+    src: url("../fonts/FS Magistral-Light.ttf") format("truetype");
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+
+    font-family: "PFBeausansPro-Magistral";
+    src: url("../fonts/FS Magistral-LightItalic.ttf") format("truetype");
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+
+@font-face {
+    font-family: "PFBeausansPro-Magistral";
+    src: url("../fonts/FS Magistral-Book.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "PFBeausansPro-Magistral";
+    src: url("../fonts/FS Magistral-BookItalic.ttf") format("truetype");
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "PFBeausansPro-Magistral";
+    src: url("../fonts/FS Magistral-Medium.ttf") format("truetype");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "PFBeausansPro-Magistral";
+    src: url("../fonts/FS Magistral-MediumItalic.ttf") format("truetype");
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "PFBeausansPro-Magistral";
+    src: url("../fonts/FS Magistral-Bold.ttf") format("truetype");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "PFBeausansPro-Magistral";
+    src: url("../fonts/FS Magistral-BoldItalic.ttf") format("truetype");
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "PFBeausansPro-Magistral";
+    src: url("../fonts/FS Magistral-ExtraBold.ttf") format("truetype");
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "PFBeausansPro-Magistral";
+    src: url("../fonts/FS Magistral-ExtraBoldItalic.ttf") format("truetype");
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+

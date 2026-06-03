@@ -12,6 +12,9 @@ $routes = [
 
     'services' => 'pages/services.php',
 
+    // GIẢI PHÁP (tách riêng khỏi /#solutions)
+    'solutions' => 'pages/solutions.php',
+
     'pricing' => 'pages/pricing.php',
 
     'contact' => 'pages/contact.php',

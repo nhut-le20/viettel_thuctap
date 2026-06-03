@@ -1,7 +1,8 @@
-<section class="section" id="solutions">
+<section class="section" id="solutions" data-hidden-since-separated="true">
+
     <div class="container section-heading">
         <p class="eyebrow">Dịch vụ nổi bật</p>
-        <h2>Bộ giải pháp số hóa cho mọi nghiệp vụ cốt lõi</h2>
+        <h2>Bộ Dịch vụ số hóa cho mọi nghiệp vụ cốt lõi</h2>
         <p>Lựa chọn từng dịch vụ riêng lẻ hoặc kết hợp thành gói tổng thể cho tài chính, nhân sự, bán hàng và vận hành.</p>
     </div>
     <div class="container cards-grid">

@@ -1,7 +1,7 @@
 <?php require __DIR__ . '/../components/hero.php'; ?>
-<?php require __DIR__ . '/../components/services.php'; ?>
 <?php require __DIR__ . '/../components/benefits.php'; ?>
 <?php require __DIR__ . '/../components/process.php'; ?>
+
 <?php require __DIR__ . '/../components/stats.php'; ?>
 <?php require __DIR__ . '/../components/video.php'; ?>
 <?php require __DIR__ . '/../components/pricing.php'; ?>
