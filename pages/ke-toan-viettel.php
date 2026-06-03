@@ -32,39 +32,28 @@
             </p>
         </div>
     </section>
+<section class="section">
+    <div class="container section-heading">
 
-    <section class="section">
-        <div class="container section-heading">
-            <p style="color:white;" class="eyebrow">Tổng quan</p>
-            <p style="color:white;" class="eyebrow">Số hóa kế toán — giảm thời gian tổng hợp</p>
-            <p style="color:white;" class="eyebrow">
-                Tự động hóa quy trình tổng hợp dữ liệu và tạo báo cáo.
-                Hỗ trợ quản trị theo kỳ và theo bộ phận giúp minh bạch vận hành.
-            </p>
-        </div>
+        <p style="color:white;" class="eyebrow">
+            Tổng quan
+        </p>
 
-        <div class="container" style="margin-top:24px;">
-            <div class="cards-grid" style="gap:16px;">
-                <article class="glass-card" style="padding:20px;">
-                    <h3 style="margin:0 0 10px;">Tổng hợp số liệu</h3>
-                    <p style="margin:0; color:rgba(255,255,255,.8);">
-                        Gom dữ liệu tập trung để giảm thao tác thủ công.
-                    </p>
-                </article>
-                <article class="glass-card" style="padding:20px;">
-                    <h3 style="margin:0 0 10px;">Báo cáo theo kỳ</h3>
-                    <p style="margin:0; color:rgba(255,255,255,.8);">
-                        Trực quan hóa số liệu để ra quyết định nhanh.
-                    </p>
-                </article>
-                <article class="glass-card" style="padding:20px;">
-                    <h3 style="margin:0 0 10px;">Quản trị tài chính</h3>
-                    <p style="margin:0; color:rgba(255,255,255,.8);">
-                        Theo dõi tình hình tài chính và phân quyền truy cập.
-                    </p>
-                </article>
-            </div>
-        </div>
+        <h2 style="color:white;">
+            Một luồng ký số rõ ràng, dễ vận hành
+        </h2>
+
+        <p style="
+            color:white;
+            max-height:300px;
+            overflow-y:auto;
+            padding-right:10px;
+        ">
+           Dịch vụ VESS là gì
+vESS-PMKT là giải pháp phần mềm kế toán trong hệ sinh thái quản trị doanh nghiệp số của Viettel (vESS), đáp ứng đầy đủ nội dung việc lập, lưu trữ và ký chứng từ kế toán của hộ kinh doanh, cá nhân kinh doanh được vận dụng theo quy định tại Điều 16, Điều 18, Điều 19 Luật Kế toán và theo hướng dẫn cụ thể tại thông tư 88 của Bộ Tài Chính.
+        </p>
+    </div>
+</section>
 
         <div class="container" style="margin-top:24px;">
             <a class="text-link" href="<?= htmlspecialchars(appUrl('index.php'), ENT_QUOTES, 'UTF-8') ?>?page=services">&larr; Quay lại danh sách dịch vụ</a>

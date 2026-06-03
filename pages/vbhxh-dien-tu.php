@@ -30,6 +30,19 @@
     0 2px 4px rgba(0, 0, 0, 0.8 ),
     0 4px 10px rgba(0,0,0,0.7);
 }
+.workflow-section{
+    position:relative;
+    background:#ffffff;
+    color:#222;
+    padding:80px 0;
+    z-index:1;
+}
+
+.workflow-section .eyebrow,
+.workflow-section h2,
+.workflow-section p{
+    color:#222;
+}
 </style>
 
 <section class="section page-hero">
@@ -92,8 +105,25 @@
 
     </div>
 </section>
+   <section class="workflow-section">
+    <div class="container">
 
+        <div class="section-heading">
+            <p class="eyebrow">Quy trình hoạt động</p>
+            <h2>TẠI SAO PHẢI LỰA CHỌN PHẦN MỀM VBHXH VIETTEL?</h2>
+        </div>
+        <div class="workflow-card">
+            <h3>Viettel là một trong những doanh nghiệp viễn thông có số lượng khách hàng lớn nhất trên thế giới  </h3>
+</div>
+        <div class="workflow-card">
+            <h3>Tự hào là nhà cung cấp dịch vụ chứng thực chữ ký số hàng đầu Việt Nam </h3>
+</div>
+            <div class="workflow">
+            <h3> Kết nối với các chữ ký số công cộng, chữ ký số của Ban Cơ yếu cấp phát để ký xác nhận về nội dung thông tin trên tờ khai </h3>
+        </div>
 
+    </div>
+</section>
 <?php
 require __DIR__ . '/../components/process.php';
 require __DIR__ . '/../components/contact-section.php';
